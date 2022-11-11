@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Aniron Bold';
-    src: url('/assets/fonts/aniron-bold.ttf');
+    src: url('../assets/fonts/aniron-bold.ttf');
 }
 
 @font-face {
     font-family: 'Aniron';
-    src: url('/assets/fonts/aniron.ttf');
+    src: url('../assets/fonts/aniron.ttf');
 }
 
 body {
